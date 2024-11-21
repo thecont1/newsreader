@@ -5,7 +5,7 @@
 Because it's due right upfront. This newsreader project is the outcome of a [code-along webinar](https://www.youtube.com/watch?v=AvgLXgELxuM) taught by [Chris Ramakers](https://github.com/chrisramakers) of [DataCamp](https://www.datacamp.com/). [My notebook](newsreader-thecont1.ipynb) is a heavily modified version of the Datacamp notebook that accompanies Ramaker's tutorial. The original can be found [here](https://bit.ly/40ShyEk) (signup required) or an unmodified copy [here](newsreader-datacamp.ipynb) in this repository.
 
 ### Objective
-Using Python to chain together several APIs, create a an agentic news editor – modelled on a famous personality – who writes a commentary on the news and weather forecast in your location. The program ends by generating an MP3 file of the bulletin being read out to an audience.
+Using Python to chain together several APIs, create an agentic news editor – modelled on a famous personality – who writes a commentary on the news and weather forecast in your location. The program ends by generating an MP3 file of the bulletin being read out to an audience.
 
 ### The Plan
 - Task 0: Prepare your work environment
